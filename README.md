@@ -38,3 +38,8 @@ npx prisma db push
 ```
 npm install @prisma/client
 ```
+
+```
+This again
+npx prisma db push
+```
